@@ -217,3 +217,4 @@ Now, we're only creating a new category if it doesn't already exist with the cur
 ## Conclusion/So What?
 
 As you can see, it doesn't really matter how complex our associations are –– Active Record is really good at managing that complexity for us. We can always drop down a level of abstraction if needed to customize the way our application behaves.
+
